@@ -19,15 +19,15 @@ struct SliderBootcamp: View {
             //Slider(value: $sliderValue)
             
             //Slider(value: $sliderValue, in: 1...5, step: 1.0)
-            Slider(
-                value: $sliderValue,
-                in: 1...5,
-                step: 1.0,
-                label: <#T##() -> View#>,
-                minimumValueLabel: <#T##() -> View#>,
-                maximumValueLabel: <#T##() -> View#>)
-                .accentColor(.red)
-           
+//            Slider(
+//                value: $sliderValue,
+//                in: 1...5,
+//                step: 1.0,
+//                label: <#T##() -> View#>,
+//                minimumValueLabel: <#T##() -> View#>,
+//                maximumValueLabel: <#T##() -> View#>)
+//                .accentColor(.red)
+//           
         }
     }
 }
