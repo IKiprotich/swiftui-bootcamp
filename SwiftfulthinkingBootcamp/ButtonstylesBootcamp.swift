@@ -12,7 +12,7 @@ struct ButtonstylesBootcamp: View {
         VStack{
             
 
-            Buttton("Button Title"){
+            Button("Button Title"){
 
             }
             .frame(height: 55)
@@ -20,21 +20,21 @@ struct ButtonstylesBootcamp: View {
             .buttonStyle(.plain)
             .controlSize(.large)
 
-             Buttton("Button Title"){
+             Button("Button Title"){
 
             }
             .frame(height: 55)
             .frame(maxWidth: .infinity)
             .buttonStyle(.bordered)
 
-             Buttton("Button Title"){
+             Button("Button Title"){
 
             }
             .frame(height: 55)
             .frame(maxWidth: .infinity)
             .buttonStyle(.borderedProminent)
 
-             Buttton("Button Title"){
+             Button("Button Title"){
 
             }
             .frame(height: 55)
