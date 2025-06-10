@@ -14,9 +14,22 @@
 		0A78F8452DB626AC00C6C428 /* SwiftfulthinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulthinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		0A65DE622DF87CD400174C1D /* Exceptions for "SwiftfulthinkingBootcamp" folder in "SwiftfulthinkingBootcamp" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Untitled.swift,
+			);
+			target = 0A78F8442DB626AC00C6C428 /* SwiftfulthinkingBootcamp */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		0A10515D2DE787D40076D631 /* SwiftfulthinkingBootcamp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				0A65DE622DF87CD400174C1D /* Exceptions for "SwiftfulthinkingBootcamp" folder in "SwiftfulthinkingBootcamp" target */,
+			);
 			path = SwiftfulthinkingBootcamp;
 			sourceTree = "<group>";
 		};
